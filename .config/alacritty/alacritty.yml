@@ -1,0 +1,49 @@
+## Configuration for Alacritty, the GPU enhanced terminal emulator.
+## It's a very basic and simple config file, for full configuration...
+## See, /usr/share/doc/alacritty/example/alacritty.yml
+
+## Import files (Fonts, Etc)
+import:
+  - ~/.config/alacritty/fonts.yml
+  - ~/.config/alacritty/catppuccin-mocha.yml
+  # - ~/.config/alacritty/catppuccin-macchiato.yml
+  # - ~/.config/alacritty/catppuccin-frappe.yml
+  # - ~/.config/alacritty/catppuccin-latte.yml 
+
+## Terminal window settings
+window:
+  dimensions:
+    columns: 82
+    lines: 24
+
+  padding:
+    x: 19
+    y: 19
+
+  decorations: none 
+  startup_mode: Windowed
+  dynamic_title: true
+
+## scrolling
+  history: 10000
+  multiplier: 3
+
+## Background opacity
+  opacity: 1.0
+
+## Cursor
+cursor:
+  style:
+    shape: Underline
+    blinking: On
+
+  unfocused_hollow: false
+
+## Live config reload
+live_config_reload: true
+
+## Shell
+shell:
+  program: /usr/local/bin/zsh
+  args:
+    - --login
