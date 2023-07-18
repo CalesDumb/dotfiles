@@ -1,7 +1,8 @@
 # About My System
 ![My BSPWM Desktop](screen.png)
 
-This repository is my personal dotfiles. Dotfiles are the files responsible for customization on your BSD(Unix-like) system. This exists so that anyone can see how I have customized my system. The customization and configuration files on BSD(Unix-like) systems are referred to as dotfiles, because typically they begin with a period.
+This repository is my personal dotfiles. Dotfiles are the files responsible for customization on your 
+BSD(Unix-like) system. This exists so that anyone can see how I have customized my system. The customization and configuration files on BSD(Unix-like) systems are referred to as dotfiles, because typically they begin with a period.
 
 I am currently running FreeBSD. As you can see below I have started using bspwm. It is a feature rich tiling window manager that represents windows as the leaves of a full binary tree.
 
