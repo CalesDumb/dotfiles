@@ -42,6 +42,6 @@ echo "⡏⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉�
 # ======
 # $PATH
 # ======
-export PATH=/home/cale/.local/bin:$PATH
+export PATH=$HOME/.local/bin:$PATH
 
 export "MICRO_TRUECOLOR=1"
