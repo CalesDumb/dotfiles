@@ -24,7 +24,6 @@ I do want to point out that my config is **not** tailored to suit a large number
 - pavucontrol, pactl (Audio Control)
 - zsh (User Shell)
 - simplescreenrecorder (Recording Software)
-- [MesloLG Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Meslo.zip) & [FiraCode Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/FiraCode.zip) (System & Terminal Font)
 - lxappearance (Theming)
 
 *Not all programs that I have listed here necessarily have configuration files stored here. This is just a mostly complete list of the programs I use.*
