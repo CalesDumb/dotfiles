@@ -17,7 +17,7 @@ I do want to point out that my config is **not** tailored to suit a large number
 - feh (Setting Wallpaper)
 - vlc (Video Player)
 - firefox (Web Browsing)
-- htop (System Monitoring)
+- [btop](https://github.com/aristocratos/btop) (System Monitoring)
 - micro (Text Editor)
 - ufs (File System)
 - pulseaudio, oss (Audio)
