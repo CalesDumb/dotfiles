@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	alacritty
+	cool-retro-term
 
 # web browser
 super + b
@@ -16,7 +16,7 @@ super + f
 
 # program launcher
 super + d
-	rofi -show run -theme $HOME/.config/rofi/themes/minimal.rasi
+	rofi -show drun -theme $HOME/.config/rofi/themes/minimal.rasi
 
 # make sxhkd reload its configuration files:
 super + Escape

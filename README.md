@@ -9,15 +9,16 @@ I do want to point out that my config is **not** tailored to suit a large number
 
 ## What I Use
 - [bspwm](https://github.com/baskerville/bspwm/) (Window Manager)
+- [polybar](https://github.com/polybar/polybar/) (System Bar)
 - [rofi](https://github.com/davatorium/rofi) (Program Launcher)
-- alacritty (Terminal)
+- [cool retro term](https://github.com/Swordfish90/cool-retro-term) (Terminal)
 - thunar (File Manager)
 - lollypop (Music Player)
 - [ncspot](https://github.com/hrkfdn/ncspot) (tui spotify client)
 - feh (Setting Wallpaper)
 - vlc (Video Player)
 - firefox (Web Browsing)
-- [btop](https://github.com/aristocratos/btop) (System Monitoring)
+- htop (System Monitoring)
 - micro (Text Editor)
 - ufs (File System)
 - pulseaudio, oss (Audio)
@@ -25,6 +26,7 @@ I do want to point out that my config is **not** tailored to suit a large number
 - zsh (User Shell)
 - simplescreenrecorder (Recording Software)
 - lxappearance (Theming)
+- [catppuccin mocha](https://github.com/catppuccin/gtk) (gtk theme)
 
 *Not all programs that I have listed here necessarily have configuration files stored here. This is just a mostly complete list of the programs I use.*
 
