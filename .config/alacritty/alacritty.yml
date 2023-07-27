@@ -8,11 +8,8 @@
 ## Import files (Fonts, Etc)
 import:
   - ~/.config/alacritty/fonts.yml
-  - ~/.config/alacritty/catppuccin-mocha.yml
-  # - ~/.config/alacritty/catppuccin-macchiato.yml
-  # - ~/.config/alacritty/catppuccin-frappe.yml
-  # - ~/.config/alacritty/catppuccin-latte.yml 
-
+  - ~/.config/alacritty/onedark.yml
+  
 ## Terminal window settings
 window:
   dimensions:

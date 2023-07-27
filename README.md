@@ -26,7 +26,7 @@ I do want to point out that my config is **not** tailored to suit a large number
 - zsh (User Shell)
 - simplescreenrecorder (Recording Software)
 - lxappearance (Theming)
-- [catppuccin mocha](https://github.com/catppuccin/gtk) (gtk theme)
+- [kripton](https://www.pling.com/p/1365372) (gtk theme)
 - [nineicons-redux](https://www.gnome-look.org/p/1960539/) (icon theme)
 - [mcmojave-cursors](https://www.gnome-look.org/p/1355701) (cursor theme)
 
