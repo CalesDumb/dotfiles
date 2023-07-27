@@ -16,7 +16,7 @@ I do want to point out that my config is **not** tailored to suit a large number
 - lollypop (Music Player)
 - [ncspot](https://github.com/hrkfdn/ncspot) (tui spotify client)
 - feh (Setting Wallpaper)
-- vlc (Video Player)
+- mpv (Video Player)
 - firefox (Web Browsing)
 - htop (System Monitoring)
 - micro (Text Editor)
@@ -27,6 +27,8 @@ I do want to point out that my config is **not** tailored to suit a large number
 - simplescreenrecorder (Recording Software)
 - lxappearance (Theming)
 - [catppuccin mocha](https://github.com/catppuccin/gtk) (gtk theme)
+- [nineicons-redux](https://www.gnome-look.org/p/1960539/) (icon theme)
+- [mcmojave-cursors](https://www.gnome-look.org/p/1355701) (cursor theme)
 
 *Not all programs that I have listed here necessarily have configuration files stored here. This is just a mostly complete list of the programs I use.*
 
