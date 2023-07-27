@@ -11,7 +11,7 @@ I do want to point out that my config is **not** tailored to suit a large number
 - [bspwm](https://github.com/baskerville/bspwm/) (Window Manager)
 - [polybar](https://github.com/polybar/polybar/) (System Bar)
 - [rofi](https://github.com/davatorium/rofi) (Program Launcher)
-- [cool retro term](https://github.com/Swordfish90/cool-retro-term) (Terminal)
+- alacritty (Terminal)
 - thunar (File Manager)
 - lollypop (Music Player)
 - [ncspot](https://github.com/hrkfdn/ncspot) (tui spotify client)
